@@ -26,7 +26,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/spring2019/week02_autodiff/seminar_pytorch.ipynb)
 
-__[colab notebook](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/spring2019/week02_autodiff/seminar_pytorch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/spring2019/week02_autodiff/seminar_pytorch.ipynb)
 
 As usual, go to `seminar_pytorch.ipynb` and follow instructions from there.
 

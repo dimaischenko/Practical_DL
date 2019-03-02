@@ -75,3 +75,7 @@ debian/files
 *.substvars
 *.debhelper.log
 homework03/lfw/*
+
+*gz
+homework02/tiny-imagenet*
+week03_convnets/tiny-imagenet*
